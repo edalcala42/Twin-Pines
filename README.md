@@ -1,1 +1,2 @@
 # Twin Pines
+Se trata de un videojuego realizado con el motor de Unity. El juego tiene mecánicas propias del género de plataformas, donde el jugador tiene la capacidad de saltar entre secciones del mapa y de aplastar a enemigos para superar el nivel; además, existen dos acciones que permiten al jugador atacar (a sus enemigos) y evadir, con la finalidad de brindar una sensación más fluida y divertida con la cual interactuar.
